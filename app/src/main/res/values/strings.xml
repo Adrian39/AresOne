@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ares One</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="api_key">80de866c498e4714a2f84b30b42112f5</string>
+    <string name="action_settings">Settings</string>
+</resources>
